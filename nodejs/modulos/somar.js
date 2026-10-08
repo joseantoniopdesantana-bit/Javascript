@@ -3,4 +3,4 @@ function somar(num1,num2) {
 }
 
 // Exportando a função para que possa ser usada em outros arquivos
-module.exports = somar;
+module.exports = somar; 
